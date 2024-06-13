@@ -11,7 +11,7 @@ REVC: Complementing a Strand of DNA [[description](https://rosalind.info/problem
 FIB: Rabbits and Recurrence Relations [[description](https://rosalind.info/problems/fib/)] [[code](./stronghold/fib.py)]  
 GC: Computing GC Content [[description](https://rosalind.info/problems/gc/)] [[code](./stronghold/gc.py)]  
 HAMM: Counting Point Mutations [[description](https://rosalind.info/problems/hamm/)] [[code](./stronghold/hamm.py)]  
-  
+IPRB: Mendel's First Law [[description](https://rosalind.info/problems/iprb/)] [[code](./stronghold/iprb.py)]  
   
   
 python version I used: 3.12.3
