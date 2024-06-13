@@ -12,6 +12,6 @@ FIB: Rabbits and Recurrence Relations [[description](https://rosalind.info/probl
 GC: Computing GC Content [[description](https://rosalind.info/problems/gc/)] [[code](./stronghold/gc.py)]  
 HAMM: Counting Point Mutations [[description](https://rosalind.info/problems/hamm/)] [[code](./stronghold/hamm.py)]  
 IPRB: Mendel's First Law [[description](https://rosalind.info/problems/iprb/)] [[code](./stronghold/iprb.py)]  
-  
+PROT: The Genetic Code [[description](https://rosalind.info/problems/prot/)] [[code](./stronghold/prot.py)]  
   
 python version I used: 3.12.3
