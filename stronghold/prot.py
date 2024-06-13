@@ -26,6 +26,7 @@ def translate_rna_to_protein(rna_sequence):
     }
 
     protein_sequence = ''
+    # reading RNA by triplets
     for i in range(0, len(rna_sequence), 3):
         codon = rna_sequence[i:i + 3]
         if codon in codon_table:
@@ -39,9 +40,10 @@ def translate_rna_to_protein(rna_sequence):
 
 if __name__ == "__main__":
     filename = "../data/prot.txt"
-    rna_sequence = ''
+    rna = ''
+    # reading RNA sequence from file
     with open(filename, 'r') as file:
-        rna_sequence = file.readline().strip()
+        rna = file.readline().strip()
 
-    protein_sequence = translate_rna_to_protein(rna_sequence)
+    protein_sequence = translate_rna_to_protein(rna)
     print(protein_sequence)
