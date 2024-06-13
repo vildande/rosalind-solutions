@@ -1,11 +1,11 @@
 # My solutions for the ROSALIND problems
 
-DNA: Countind DNA Nucleotides [[code](https://github.com/vildande/rosalind-solutions/dna.py)] 
-RNA: Transcribing DNA into RNA [code]
-REVC: Complementing a Strand of DNA [code]
-FIB: Rabbits and Recurrence Relations [code]
-GC: Computing GC Content [code]
-HAMM: Counting Point Mutations [code]
+DNA: Countind DNA Nucleotides [[code](./stronghold/dna.py)]  
+RNA: Transcribing DNA into RNA [[code](./stronghold/rna.py)]  
+REVC: Complementing a Strand of DNA [[code](./stronghold/revc.py)]  
+FIB: Rabbits and Recurrence Relations [[code](./stronghold/fib.py)]  
+GC: Computing GC Content [[code](./stronghold/gc.py)]  
+HAMM: Counting Point Mutations [[code](./stronghold/hamm.py)]  
 
 
 
