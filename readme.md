@@ -13,5 +13,7 @@ GC: Computing GC Content [[description](https://rosalind.info/problems/gc/)] [[c
 HAMM: Counting Point Mutations [[description](https://rosalind.info/problems/hamm/)] [[code](./stronghold/hamm.py)]  
 IPRB: Mendel's First Law [[description](https://rosalind.info/problems/iprb/)] [[code](./stronghold/iprb.py)]  
 PROT: The Genetic Code [[description](https://rosalind.info/problems/prot/)] [[code](./stronghold/prot.py)]  
-  
+SUBS: Finding a Motif in DNA [[description](https://rosalind.info/problems/subs/)] [[code](./stronghold/subs.py)]  
+
+
 python version I used: 3.12.3
