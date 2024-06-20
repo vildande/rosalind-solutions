@@ -15,6 +15,6 @@ IPRB: Mendel's First Law [[description](https://rosalind.info/problems/iprb/)] [
 PROT: The Genetic Code [[description](https://rosalind.info/problems/prot/)] [[code](./stronghold/prot.py)]  
 SUBS: Finding a Motif in DNA [[description](https://rosalind.info/problems/subs/)] [[code](./stronghold/subs.py)]  
 FIBD: Mortal Fibonacci Rabbits [[description](https://rosalind.info/problems/fibd/)] [[code](./stronghold/fibd.py)]  
-
+GRPH: Overlap Graphs [[description](https://rosalind.info/problems/grph/)] [[code](./stronghold/grph.py)]  
 
 python version I used: 3.12.3
