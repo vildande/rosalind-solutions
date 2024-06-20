@@ -16,5 +16,7 @@ PROT: The Genetic Code [[description](https://rosalind.info/problems/prot/)] [[c
 SUBS: Finding a Motif in DNA [[description](https://rosalind.info/problems/subs/)] [[code](./stronghold/subs.py)]  
 FIBD: Mortal Fibonacci Rabbits [[description](https://rosalind.info/problems/fibd/)] [[code](./stronghold/fibd.py)]  
 GRPH: Overlap Graphs [[description](https://rosalind.info/problems/grph/)] [[code](./stronghold/grph.py)]  
-
+IEV: Calculating Expected Offspring [[description](https://rosalind.info/problems/iev/)] [[code](./stronghold/iev.py)]  
+  
+  
 python version I used: 3.12.3
